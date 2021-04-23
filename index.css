@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(13, 35, 228);
+}
+a{
+    color : blueviolet;
+    text-decoration: none;
+
+}
+
+a:hover{
+    color: orangered;
+    text-decoration: solid;
+}
+
+.body{
+    margin-left : 150px;
+    margin-right : 150px;
+    padding-left : 150px;
+    padding-right: 150px;
+    padding-top : 80px;
+    padding-bottom: 80px;
+    text-align: justify;
+    background-color: lightyellow;
+
+}
+
+
+#icon{
+    width : 100px;
+    height : 100px;
+    float : right;
+    padding:10px;
+    margin:5px;
+}
+
+#btn1{
+    background-color: rgb(236, 164, 6);
+    padding:10px;
+    border-radius: 8px;
+    margin:5px;
+    text-decoration: none;
+    color: black;
+}
+
+#btn1:hover{
+    background-color: blue;
+    color: whitesmoke;
+}
+
+
